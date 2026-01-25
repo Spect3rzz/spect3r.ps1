@@ -14,5 +14,4 @@
 <h2 align="center">Experience & Skills</h2>
 
 <p align="center">⮞ Web Application Penetration Testing</p>
-<p align="center">⮞ Infrastructure Penetration Testing</p>
 <p align="center">⮞ Active Directory Attacks & Abuse</p>
