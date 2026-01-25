@@ -11,10 +11,8 @@
   <img src="https://wallpapers.com/images/high/thorfinn-readyfor-battle-peblghl3eid69old.webp">
 </p>
 
-<h2 align="center">Skills</h2>
+<h2 align="center">Experience & Skills</h2>
 
-<p align="center">
-  Web Application Pentesting · OWASP Top 10 · SQL Injection · XSS · IDOR ·
-  Authentication & Authorization Flaws · Directory Traversal · SSRF ·
-  Burp Suite · Manual Testing
-</p>
+<p align="center">⮞ Web Application Penetration Testing</p>
+<p align="center">⮞ Infrastructure Penetration Testing</p>
+<p align="center">⮞ Active Directory Attacks & Abuse</p>
