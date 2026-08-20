@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
- Soy un entusiasta del hacking web y la seguridad ofensiva.
+ del hacking web y la seguridad ofensiva.
   Convertí la curiosidad por romper aplicaciones en una disciplina.
 </p>
 
