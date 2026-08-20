@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://wallpapers.com/images/high/thorfinn-readyfor-battle-peblghl3eid69old.webp">
+  <img src="https://c4.wallpaperflare.com/wallpaper/537/623/713/berserk-guts-kentaro-miura-monochrome-wallpaper-preview.jpg">
 </p>
 
 <h2 align="center">Experience & Skills</h2>
